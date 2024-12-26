@@ -22,13 +22,13 @@ repository               : "Qing1011/qing1011.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Qing Yao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoc "
+  # location         : "Earth"
+  employer         : "Mailman School of Public Health, Columbia University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "qy2290@columbia.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
